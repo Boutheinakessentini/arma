@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload XML File</title>
+</head>
+<body>
+    <h1>Upload XML File</h1>
+    
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Upload</button>
+    </form>
+    
+    {% if file_content %}
+        <h2>Uploaded XML Content:</h2>
+        <pre>{{ file_content|escape }}</pre>
+    {% endif %}
+</body>
+</html>

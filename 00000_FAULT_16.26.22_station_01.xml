@@ -1,0 +1,4381 @@
+<testseq>
+	<product>
+		<id>4</id>
+		<branch_id>1</branch_id>
+		<name>EB31311</name>
+		<description></description>
+		<mode>Manual</mode>
+		<date_time>2024.07.15 16.26.22</date_time>
+		<PalettID></PalettID>
+		<barcode></barcode>
+		<DM_Primaire></DM_Primaire>
+		<DM_secondaire></DM_secondaire>
+		<duration>440.28</duration>
+		<failed>1</failed>
+	</product>
+	<global>
+		<parameter>
+			<id>0</id>
+			<name>Client Hw Version</name>
+			<description></description>
+			<value type="string">2.0</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Client Sw Version</name>
+			<description></description>
+			<value type="string">1.50</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Diag Frame Evolution Index</name>
+			<description></description>
+			<value type="string">FF</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Functional Plan Number</name>
+			<description></description>
+			<value type="string">9831535180</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Hardware Version</name>
+			<description></description>
+			<value type="string">BA23481B00</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Label:NOK</name>
+			<description></description>
+			<value type="string">NOK</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Label:OK</name>
+			<description></description>
+			<value type="string">OK</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Lhd/Rhd</name>
+			<description></description>
+			<value type="string">RHD</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Max Vbat</name>
+			<description></description>
+			<value type="real64">13.9</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Min Vbat</name>
+			<description></description>
+			<value type="real64">13.1</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>No. Parameters</name>
+			<description></description>
+			<value type="string">01</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Pcba Deviation Number</name>
+			<description></description>
+			<value type="string">00</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Pcba Manufacturing Date</name>
+			<description></description>
+			<value type="string">01/01/2023</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Pcba No Index</name>
+			<description></description>
+			<value type="string">1.4</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Pcba No Reference</name>
+			<description></description>
+			<value type="string">EA82064</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Pcba Plant Line</name>
+			<description></description>
+			<value type="string">0001</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Pictogram Variant</name>
+			<description></description>
+			<value type="string">PRNDM</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Product Index</name>
+			<description></description>
+			<value type="string">A</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Product Manufacturing Date</name>
+			<description></description>
+			<value type="string">01/06/2023</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Product Reference</name>
+			<description></description>
+			<value type="string">EB31311</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>ProductPicture</name>
+			<description></description>
+			<value type="string">Left.png</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>ProductTestFile</name>
+			<description></description>
+			<value type="string">etoggle.dll</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Psa Supplier Code Za</name>
+			<description></description>
+			<value type="string">0006</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Reference Client</name>
+			<description></description>
+			<value type="string">9857581080</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Software Build Date</name>
+			<description></description>
+			<value type="string">01/01/2023</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Software Checksum</name>
+			<description></description>
+			<value type="string">DD E3 5E 76</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Software Variante Byte</name>
+			<description></description>
+			<value type="string">01</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Software Version</name>
+			<description></description>
+			<value type="string">R540.RS1</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Valeo Deviation Number</name>
+			<description></description>
+			<value type="string">00</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Valeo Plant</name>
+			<description></description>
+			<value type="string">ARO1</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Valeo Production Line</name>
+			<description></description>
+			<value type="string">01</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>Vehicle Connector Variant</name>
+			<description></description>
+			<value type="string">GREEN TH8</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>softwareEvolutionIndex_High</name>
+			<description></description>
+			<value type="string">01</value>
+		</parameter>
+		<parameter>
+			<id>0</id>
+			<name>softwareEvolutionIndex_Low</name>
+			<description></description>
+			<value type="string">50</value>
+		</parameter>
+	</global>
+	<process stage="1">
+		<name>WS20</name>
+		<description>rodage des pushs et toggle</description>
+		<init>
+			<failed>0</failed>
+			<duration></duration>
+		</init>
+		<test step="1">
+			<id>244</id>
+			<name>20.02</name>
+			<description>Test plug</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="2">
+			<id>246</id>
+			<name>20.03</name>
+			<description>Test Unplug</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="3">
+			<id>20</id>
+			<name>20.00</name>
+			<description>TESTER : cylinder rodage bas </description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="4">
+			<id>22</id>
+			<name>20.10</name>
+			<description>TESTER : rodage pushs et toggle</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="5">
+			<id>23</id>
+			<name>20.01</name>
+			<description>TESTER : cylinder rodage haut</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<cleanup>
+			<failed>0</failed>
+			<duration></duration>
+		</cleanup>
+	</process>
+	<process stage="2">
+		<name>WS30</name>
+		<description>calibration et test pushs</description>
+		<init>
+			<failed>0</failed>
+			<duration></duration>
+		</init>
+		<test step="1">
+			<id>1587</id>
+			<name>30.03</name>
+			<description>Mask Down</description>
+			<failed>0</failed>
+			<duration>0.65</duration>
+			<used>1</used>
+		</test>
+		<test step="2">
+			<id>4</id>
+			<name>30.00</name>
+			<description>TESTER : Plug product</description>
+			<failed>0</failed>
+			<duration>1.35</duration>
+			<used>1</used>
+		</test>
+		<test step="3">
+			<id>5</id>
+			<name>30.10</name>
+			<description>CAN : run normal mode</description>
+			<failed>0</failed>
+			<duration>0.00</duration>
+			<used>1</used>
+		</test>
+		<test step="4">
+			<id>6</id>
+			<name>30.11</name>
+			<description>CAN : enter extended</description>
+			<failed>0</failed>
+			<duration>0.67</duration>
+			<used>1</used>
+		</test>
+		<test step="5">
+			<id>1003</id>
+			<name>30.12</name>
+			<description>CAN : Security Access</description>
+			<failed>0</failed>
+			<duration>0.07</duration>
+			<used>1</used>
+		</test>
+		<test step="6">
+			<id>8</id>
+			<name>30.13</name>
+			<description>CAN : Debug session</description>
+			<failed>0</failed>
+			<duration>0.02</duration>
+			<used>1</used>
+		</test>
+		<test step="7">
+			<id>9</id>
+			<name>30.14</name>
+			<description>CAN : Enable Ghost Frame</description>
+			<failed>0</failed>
+			<duration>0.04</duration>
+			<used>1</used>
+		</test>
+		<test step="8">
+			<id>1041</id>
+			<name>30.15</name>
+			<description>CAN : Check Ghost Frame Status</description>
+			<failed>0</failed>
+			<duration>0.02</duration>
+			<used>1</used>
+		</test>
+		<test step="9">
+			<id>1402</id>
+			<name>30.16</name>
+			<description>CAN : Check EMS test Byte</description>
+			<failed>0</failed>
+			<duration>0.04</duration>
+			<used>1</used>
+		</test>
+		<test step="10">
+			<id>30</id>
+			<name>30.17</name>
+			<description>EMS tracability</description>
+			<failed>0</failed>
+			<duration>0.19</duration>
+			<used>1</used>
+			<parameter>
+				<id>31</id>
+				<name>PCB NO Reference</name>
+				<description></description>
+				<value type="string">EA82063</value>
+			</parameter>
+			<parameter>
+				<id>33</id>
+				<name>PCBA  Manufacturing Date</name>
+				<description></description>
+				<value type="string">01/01/2023</value>
+			</parameter>
+			<parameter>
+				<id>34</id>
+				<name>PCBA Deviation Number</name>
+				<description></description>
+				<value type="string">00</value>
+			</parameter>
+			<parameter>
+				<id>32</id>
+				<name>PCBA NO index</name>
+				<description></description>
+				<value type="string">1.4</value>
+			</parameter>
+			<parameter>
+				<id>35</id>
+				<name>PCBA Plant Line</name>
+				<description>PLANT LINE</description>
+				<value type="string">0001</value>
+			</parameter>
+			<parameter>
+				<id>36</id>
+				<name>PCBA Serial Number</name>
+				<description></description>
+				<value type="string">0000</value>
+			</parameter>
+			<measure step="1">
+				<config>Data_EMS_TRACEABILITY</config>
+				<value type="string">00000000000000FFFF000000000000000000FF</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>0</id>
+					<name>Limit</name>
+					<value1>00000000000000FFFF000000000000000000FF</value1>
+					<value2></value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>Pcba_NoReference</config>
+				<value type="string"></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>0</id>
+					<name>Limit</name>
+					<value1></value1>
+					<value2></value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>Pcba_NoIndex      </config>
+				<value type="string"></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>0</id>
+					<name>Limit</name>
+					<value1></value1>
+					<value2></value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>Pcba_Plant        </config>
+				<value type="string">FF</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>0</id>
+					<name>Limit</name>
+					<value1>FF</value1>
+					<value2></value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>Pcba_Line         </config>
+				<value type="string">FF</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>0</id>
+					<name>Limit</name>
+					<value1>FF</value1>
+					<value2></value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>Pcba_Manufactering</config>
+				<value type="string">000/2000 00:00</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>0</id>
+					<name>Limit</name>
+					<value1>000/2000 00:00</value1>
+					<value2></value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Pcba_SerialNumber </config>
+				<value type="string">00000000FF</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>0</id>
+					<name>Limit</name>
+					<value1>00000000FF</value1>
+					<value2></value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>Pcba_DeviationNo   </config>
+				<value type="string">--</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>0</id>
+					<name>Limit</name>
+					<value1>--</value1>
+					<value2></value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="11">
+			<id>31</id>
+			<name>30.18</name>
+			<description>Check Software Version</description>
+			<failed>0</failed>
+			<duration>0.20</duration>
+			<used>1</used>
+		</test>
+		<test step="12">
+			<id>32</id>
+			<name>30.19</name>
+			<description>Write Software Variante Byte</description>
+			<failed>0</failed>
+			<duration>0.16</duration>
+			<used>1</used>
+		</test>
+		<test step="13">
+			<id>38</id>
+			<name>30.40</name>
+			<description>Check Software Variante Byte</description>
+			<failed>0</failed>
+			<duration>0.02</duration>
+			<used>1</used>
+		</test>
+		<test step="14">
+			<id>39</id>
+			<name>30.41</name>
+			<description>Check Software Build Date</description>
+			<failed>0</failed>
+			<duration>0.07</duration>
+			<used>1</used>
+		</test>
+		<test step="15">
+			<id>40</id>
+			<name>30.42</name>
+			<description>Check Software Checksum</description>
+			<failed>0</failed>
+			<duration>0.02</duration>
+			<used>1</used>
+		</test>
+		<test step="16">
+			<id>42</id>
+			<name>30.44</name>
+			<description>Check Vbat</description>
+			<failed>0</failed>
+			<duration>0.04</duration>
+			<used>1</used>
+		</test>
+		<test step="17">
+			<id>11</id>
+			<name>30.20</name>
+			<description>AXIS : Position Push P</description>
+			<failed>0</failed>
+			<duration>0.10</duration>
+			<used>1</used>
+		</test>
+		<test step="18">
+			<id>12</id>
+			<name>30.21</name>
+			<description>TEST : Calibration Push P</description>
+			<failed>1</failed>
+			<duration>1.67</duration>
+			<used>1</used>
+			<measure step="1">
+				<config>F1</config>
+				<value type="real64">5.270000</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>2301</id>
+					<name>Limit01</name>
+					<value1>4.0</value1>
+					<value2>6.2</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>S1</config>
+				<value type="real64">0.780000</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>2285</id>
+					<name>Limit02</name>
+					<value1>0.30</value1>
+					<value2>1.75</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>Snap</config>
+				<value type="real64">46.110000</value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>2302</id>
+					<name>Limit03</name>
+					<value1>30</value1>
+					<value2>100</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>S2</config>
+				<value type="real64">1.150000</value>
+				<failed>1</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>1</used>
+				<limit>
+					<id>2303</id>
+					<name>Limit04</name>
+					<value1>0.72</value1>
+					<value2>1.05</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>F3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1593</id>
+					<name>Limit05</name>
+					<value1>0.0</value1>
+					<value2>20.0</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>S3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>47</id>
+					<name>Limit06</name>
+					<value1>0.1</value1>
+					<value2>3.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>E0</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>892</id>
+					<name>Limit07</name>
+					<value1>100</value1>
+					<value2>400</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>E1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>893</id>
+					<name>Limit08</name>
+					<value1>200</value1>
+					<value2>500</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>E2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1010</id>
+					<name>Limit09</name>
+					<value1>350</value1>
+					<value2>700</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>E3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>895</id>
+					<name>Limit10</name>
+					<value1>300</value1>
+					<value2>900</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Fr</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2295</id>
+					<name>Limit11</name>
+					<value1>1.3</value1>
+					<value2>10</value2>
+				</limit>
+			</measure>
+			<image>00000_16.26.22_18.png</image><Error><Code>-11114</Code><CallPath>CheckLimitREAL64</CallPath><Msg>TEST_ERR_VALUE_OUT_OF_LIMIT</Msg></Error></test>
+		<test step="19">
+			<id>1403</id>
+			<name>30.02</name>
+			<description>CAN : Reset Frame</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="20">
+			<id>998</id>
+			<name>30.10</name>
+			<description>CAN : run normal mode</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="21">
+			<id>1004</id>
+			<name>30.11</name>
+			<description>CAN : extended</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="22">
+			<id>1005</id>
+			<name>30.12</name>
+			<description>CAN : Security Access</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="23">
+			<id>1006</id>
+			<name>30.13</name>
+			<description>CAN : Debug session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="24">
+			<id>1043</id>
+			<name>30.14</name>
+			<description>CAN : Enable Ghost Frame</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="25">
+			<id>1044</id>
+			<name>30.15</name>
+			<description>CAN : Check Ghost Frame Status</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="26">
+			<id>1045</id>
+			<name>30.23</name>
+			<description>CAN : Read Calibration Push P</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="27">
+			<id>15</id>
+			<name>30.24</name>
+			<description>TEST : Test Electrique Push P</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>Ce_Push_P</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1182</id>
+					<name>Limit01</name>
+					<value1>0.62</value1>
+					<value2>0.88</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>F1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1783</id>
+					<name>Limit02</name>
+					<value1>4.0</value1>
+					<value2>7.5</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>S1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1784</id>
+					<name>Limit03</name>
+					<value1>0.4</value1>
+					<value2>1.1</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>Snap</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2046</id>
+					<name>Limit04</name>
+					<value1>30</value1>
+					<value2>55</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>S2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2047</id>
+					<name>Limit05</name>
+					<value1>0.72</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>F3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1171</id>
+					<name>Limit06</name>
+					<value1>3.0</value1>
+					<value2>11.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>S3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1035</id>
+					<name>Limit07</name>
+					<value1>0.1</value1>
+					<value2>3.0</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="28">
+			<id>16</id>
+			<name>30.30</name>
+			<description>AXIS : Position Push M</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="29">
+			<id>26</id>
+			<name>30.31</name>
+			<description>TEST : Calibration Push M</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>F1 </config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2304</id>
+					<name>Limit01</name>
+					<value1>4.0</value1>
+					<value2>6.2</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>S1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2286</id>
+					<name>Limit02</name>
+					<value1>0.1</value1>
+					<value2>1.75</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>Snap</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2305</id>
+					<name>Limit03</name>
+					<value1>30</value1>
+					<value2>100</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>S2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2306</id>
+					<name>Limit04</name>
+					<value1>0.72</value1>
+					<value2>1.05</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>F3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1595</id>
+					<name>Limit05</name>
+					<value1>0.0</value1>
+					<value2>20.0</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>S3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1533</id>
+					<name>Limit06</name>
+					<value1>0.1</value1>
+					<value2>3.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>E0</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>901</id>
+					<name>Limit07</name>
+					<value1>100</value1>
+					<value2>400</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>E1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>902</id>
+					<name>Limit08</name>
+					<value1>200</value1>
+					<value2>500</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>E2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1011</id>
+					<name>Limit09</name>
+					<value1>350</value1>
+					<value2>700</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>E3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>903</id>
+					<name>Limit10</name>
+					<value1>300</value1>
+					<value2>900</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Fr</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2296</id>
+					<name>Limit11</name>
+					<value1>1.3</value1>
+					<value2>10</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="30">
+			<id>1404</id>
+			<name>30.02</name>
+			<description>CAN : Reset Frame</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="31">
+			<id>1405</id>
+			<name>30.10</name>
+			<description>CAN : Normal Mode</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="32">
+			<id>1047</id>
+			<name>30.11</name>
+			<description>CAN : enter extended</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="33">
+			<id>1048</id>
+			<name>30.12</name>
+			<description>CAN : Security Access</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="34">
+			<id>1049</id>
+			<name>30.13</name>
+			<description>CAN : Debug session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="35">
+			<id>1050</id>
+			<name>30.14</name>
+			<description>CAN : Enable Ghost Frame</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="36">
+			<id>1051</id>
+			<name>30.15</name>
+			<description>CAN : Check Ghost Frame Status</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="37">
+			<id>1052</id>
+			<name>30.33</name>
+			<description>CAN : Read Calibration Push M</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="38">
+			<id>561</id>
+			<name>30.34</name>
+			<description>TEST : Test Electrique Push M</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>Ce_Push_M</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1136</id>
+					<name>Limit01</name>
+					<value1>0.62</value1>
+					<value2>0.88</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>F1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1790</id>
+					<name>Limit02</name>
+					<value1>4.0</value1>
+					<value2>7.5</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>S1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1791</id>
+					<name>Limit03</name>
+					<value1>0.4</value1>
+					<value2>1.1</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>Snap</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2050</id>
+					<name>Limit04</name>
+					<value1>30</value1>
+					<value2>55</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>S2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2051</id>
+					<name>Limit05</name>
+					<value1>0.72</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>F3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1181</id>
+					<name>Limit06</name>
+					<value1>3.0</value1>
+					<value2>11.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>S3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1045</id>
+					<name>Limit07</name>
+					<value1>0.1</value1>
+					<value2>2.0</value2>
+				</limit>
+			</measure>
+		</test>
+		<cleanup>
+			<failed>0</failed>
+			<duration></duration>
+		</cleanup>
+	</process>
+	<process stage="3">
+		<name>WS40</name>
+		<description>free</description>
+		<init>
+			<failed>0</failed>
+			<duration></duration>
+		</init>
+		<cleanup>
+			<failed>0</failed>
+			<duration></duration>
+		</cleanup>
+	</process>
+	<process stage="4">
+		<name>WS50</name>
+		<description>calibration toggle</description>
+		<init>
+			<failed>0</failed>
+			<duration></duration>
+		</init>
+		<test step="1">
+			<id>1612</id>
+			<name>50.02</name>
+			<description>mask down Panel</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="2">
+			<id>1610</id>
+			<name>50.00</name>
+			<description> Plug Panel</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="3">
+			<id>73</id>
+			<name>50.10</name>
+			<description>CAN : run normal mode</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="4">
+			<id>74</id>
+			<name>50.11</name>
+			<description>CAN : Enter Extended Session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="5">
+			<id>75</id>
+			<name>50.12</name>
+			<description>CAN : Security Access</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="6">
+			<id>76</id>
+			<name>50.13</name>
+			<description>CAN : Debug session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="7">
+			<id>77</id>
+			<name>50.14</name>
+			<description>CAN : Enable Ghost Frame</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="8">
+			<id>78</id>
+			<name>50.15</name>
+			<description>CAN : Check Ghost Frame Status</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="9">
+			<id>79</id>
+			<name>50.20</name>
+			<description>AXIS : Position toggle dir left</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="10">
+			<id>80</id>
+			<name>50.21</name>
+			<description>TEST : Test Haptic toggle dir left</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>F1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2307</id>
+					<name>Limit01</name>
+					<value1>5.5</value1>
+					<value2>8.5</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>S1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1965</id>
+					<name>Limit02</name>
+					<value1>0.1</value1>
+					<value2>2.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>Snap1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1978</id>
+					<name>Limit03</name>
+					<value1>30.0</value1>
+					<value2>50.0</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>S2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2308</id>
+					<name>Limit04</name>
+					<value1>3.0</value1>
+					<value2>4.5</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>F3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2310</id>
+					<name>Limit05</name>
+					<value1>9.36</value1>
+					<value2>14.04</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>S3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2099</id>
+					<name>Limit06</name>
+					<value1>4.4</value1>
+					<value2>7.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Snap2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2312</id>
+					<name>Limit07</name>
+					<value1>33.0</value1>
+					<value2>53.0</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>S4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2313</id>
+					<name>Limit08</name>
+					<value1>8.0</value1>
+					<value2>10.5</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>F5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2096</id>
+					<name>Limit09</name>
+					<value1>10.0</value1>
+					<value2>18.0</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>S5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2052</id>
+					<name>Limit10</name>
+					<value1>7.5</value1>
+					<value2>11.5</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>E0</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>657</id>
+					<name>Limit11</name>
+					<value1>0</value1>
+					<value2>4500</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>E1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>658</id>
+					<name>Limit12</name>
+					<value1>0</value1>
+					<value2>4500</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>E2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>700</id>
+					<name>Limit13</name>
+					<value1>10</value1>
+					<value2>1110</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>E3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>685</id>
+					<name>Limit14</name>
+					<value1>40</value1>
+					<value2>1180</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>E4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>702</id>
+					<name>Limit15</name>
+					<value1>100</value1>
+					<value2>1190</value2>
+				</limit>
+			</measure>
+			<measure step="16">
+				<config>E5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>680</id>
+					<name>Limit16</name>
+					<value1>110</value1>
+					<value2>1200</value2>
+				</limit>
+			</measure>
+			<measure step="17">
+				<config>Fr</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2314</id>
+					<name>Limit17</name>
+					<value1>1.4</value1>
+					<value2>10</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="11">
+			<id>81</id>
+			<name>50.30</name>
+			<description>AXIS : Position toggle dir right</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="12">
+			<id>83</id>
+			<name>50.31</name>
+			<description>TEST : Test Haptic toggle dir right</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>F1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2315</id>
+					<name>Limit01</name>
+					<value1>5.5</value1>
+					<value2>8.5</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>S1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1966</id>
+					<name>Limit02</name>
+					<value1>0.1</value1>
+					<value2>2.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>Snap1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1982</id>
+					<name>Limit03</name>
+					<value1>30.0</value1>
+					<value2>50.0</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>S2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2316</id>
+					<name>Limit04</name>
+					<value1>3.0</value1>
+					<value2>4.5</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>F3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2317</id>
+					<name>Limit05</name>
+					<value1>9.36</value1>
+					<value2>14.04</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>S3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1984</id>
+					<name>Limit06</name>
+					<value1>4.8</value1>
+					<value2>7.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Snap2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2354</id>
+					<name>Limit07</name>
+					<value1>33.0</value1>
+					<value2>53.0</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>S4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2319</id>
+					<name>Limit08</name>
+					<value1>8.0</value1>
+					<value2>10.5</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>F5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2097</id>
+					<name>Limit09</name>
+					<value1>10.0</value1>
+					<value2>18.0</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>S5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>456</id>
+					<name>Limit10</name>
+					<value1>5.0</value1>
+					<value2>15.0</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>E0</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>660</id>
+					<name>Limit11</name>
+					<value1>0</value1>
+					<value2>4500</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>E1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>686</id>
+					<name>Limit12</name>
+					<value1>0</value1>
+					<value2>4500</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>E2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>687</id>
+					<name>Limit13</name>
+					<value1>0</value1>
+					<value2>4500</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>E3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>688</id>
+					<name>Limit14</name>
+					<value1>0</value1>
+					<value2>4500</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>E4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>689</id>
+					<name>Limit15</name>
+					<value1>0</value1>
+					<value2>4500</value2>
+				</limit>
+			</measure>
+			<measure step="16">
+				<config>E5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>690</id>
+					<name>Limit16</name>
+					<value1>0</value1>
+					<value2>4500</value2>
+				</limit>
+			</measure>
+			<measure step="17">
+				<config>Fr</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2320</id>
+					<name>Limit17</name>
+					<value1>1.4</value1>
+					<value2>10</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="13">
+			<id>84</id>
+			<name>50.24</name>
+			<description>CAN : Write Calibration toggle both right and left</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<cleanup>
+			<failed>0</failed>
+			<duration></duration>
+		</cleanup>
+	</process>
+	<process stage="5">
+		<name>WS60</name>
+		<description>test electrique toggle</description>
+		<init>
+			<failed>0</failed>
+			<duration></duration>
+		</init>
+		<test step="1">
+			<id>85</id>
+			<name>60.00</name>
+			<description>Plug Panel</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="2">
+			<id>86</id>
+			<name>60.10</name>
+			<description>CAN : run normal mode</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="3">
+			<id>87</id>
+			<name>60.11</name>
+			<description>CAN : Enter Extended Session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="4">
+			<id>88</id>
+			<name>60.12</name>
+			<description>CAN : Security Access</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="5">
+			<id>89</id>
+			<name>60.13</name>
+			<description>CAN : Debug session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="6">
+			<id>90</id>
+			<name>60.14</name>
+			<description>CAN : Enable Ghost Frame</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="7">
+			<id>91</id>
+			<name>60.15</name>
+			<description>CAN : Check Ghost Frame Status</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="8">
+			<id>349</id>
+			<name>60.30</name>
+			<description>AXIS : Position toggle dir right</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="9">
+			<id>350</id>
+			<name>60.31</name>
+			<description>TEST : Test Electrique toggle dir right</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>Contact_elec 1 Right</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2231</id>
+					<name>Limit01</name>
+					<value1>2.0</value1>
+					<value2>4.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>Contact_elec 2 Right</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2232</id>
+					<name>Limit02</name>
+					<value1>6.0</value1>
+					<value2>10.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>Deplacement S1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2167</id>
+					<name>Limit03</name>
+					<value1>0.1</value1>
+					<value2>2.0</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>Force_F1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2323</id>
+					<name>Limit04</name>
+					<value1>5.5</value1>
+					<value2>8.5</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>Deplacement S2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2324</id>
+					<name>Limit05</name>
+					<value1>3.0</value1>
+					<value2>4.5</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>Force_F2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2175</id>
+					<name>Limit06</name>
+					<value1>3.0</value1>
+					<value2>6.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Snap1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2171</id>
+					<name>Limit07</name>
+					<value1>30.0</value1>
+					<value2>50.0</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>Deplacement_S3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2176</id>
+					<name>Limit08</name>
+					<value1>4.8</value1>
+					<value2>7.0</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>Force_F3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2325</id>
+					<name>Limit09</name>
+					<value1>9.36</value1>
+					<value2>14.04</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>Deplacement_S4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2326</id>
+					<name>Limit10</name>
+					<value1>8.0</value1>
+					<value2>10.5</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Force_F4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2177</id>
+					<name>Limit11</name>
+					<value1>5.0</value1>
+					<value2>8.0</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>Snap2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2327</id>
+					<name>Limit12</name>
+					<value1>33.0</value1>
+					<value2>53.0</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>Deplacement_S5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2179</id>
+					<name>Limit13</name>
+					<value1>9.0</value1>
+					<value2>12.0</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>Force_F5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2193</id>
+					<name>Limit14</name>
+					<value1>10.0</value1>
+					<value2>18.0</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>Fr</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2321</id>
+					<name>Limit15</name>
+					<value1>1.4</value1>
+					<value2>10</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="10">
+			<id>92</id>
+			<name>60.20</name>
+			<description>AXIS : Position toggle dir left</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="11">
+			<id>93</id>
+			<name>60.21</name>
+			<description>TEST : Test Electrique toggle dir left </description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>Contact_elec 1 Left</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2233</id>
+					<name>Limit01</name>
+					<value1>2.0</value1>
+					<value2>4.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>Contact_elec 2 Left</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2234</id>
+					<name>Limit02</name>
+					<value1>6.0</value1>
+					<value2>10.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>Deplacement_S1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2181</id>
+					<name>Limit03</name>
+					<value1>0.1</value1>
+					<value2>2.0</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>Force_F1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2328</id>
+					<name>Limit04</name>
+					<value1>5.5</value1>
+					<value2>8.5</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>Deplacement_S2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2329</id>
+					<name>Limit05</name>
+					<value1>3.0</value1>
+					<value2>4.5</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>Force_F2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2184</id>
+					<name>Limit06</name>
+					<value1>3.0</value1>
+					<value2>6.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Snap1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2185</id>
+					<name>Limit07</name>
+					<value1>30.0</value1>
+					<value2>50.0</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>Deplacement_S3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2186</id>
+					<name>Limit08</name>
+					<value1>4.8</value1>
+					<value2>7.0</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>Force_F3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2330</id>
+					<name>Limit09</name>
+					<value1>9.36</value1>
+					<value2>14.04</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>Deplacement_S4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2331</id>
+					<name>Limit10</name>
+					<value1>8.0</value1>
+					<value2>10.5</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Force_F4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2189</id>
+					<name>Limit11</name>
+					<value1>5.0</value1>
+					<value2>8.0</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>Snap2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2353</id>
+					<name>Limit12</name>
+					<value1>33.0</value1>
+					<value2>53.0</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>Deplacement_S5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2191</id>
+					<name>Limit13</name>
+					<value1>5.0</value1>
+					<value2>15.0</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>Force_F5</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2192</id>
+					<name>Limit14</name>
+					<value1>10.0</value1>
+					<value2>18.0</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>Fr</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2333</id>
+					<name>Limit15</name>
+					<value1>1.4</value1>
+					<value2>10</value2>
+				</limit>
+			</measure>
+		</test>
+		<cleanup>
+			<failed>0</failed>
+			<duration></duration>
+		</cleanup>
+	</process>
+	<process stage="6">
+		<name>WS70</name>
+		<description>test vision</description>
+		<init>
+			<failed>0</failed>
+			<duration></duration>
+		</init>
+		<test step="1">
+			<id>1309</id>
+			<name>70.20</name>
+			<description>CAMERA : Select job LHD or RHD</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="2">
+			<id>1310</id>
+			<name>70.22</name>
+			<description>CAMERA : Reset</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="3">
+			<id>148</id>
+			<name>70.00</name>
+			<description>TESTER : Plug Panel</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="4">
+			<id>1288</id>
+			<name>70.21</name>
+			<description>CAMERA : Select reference picto</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="5">
+			<id>150</id>
+			<name>70.10</name>
+			<description>CAN : run normal mode</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="6">
+			<id>156</id>
+			<name>70.30</name>
+			<description>DMM : current normal mode</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>CurrentNormalMode</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1837</id>
+					<name>Limit01</name>
+					<value1>0.02</value1>
+					<value2>0.09</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="7">
+			<id>1131</id>
+			<name>70.11</name>
+			<description>CAN : Enter Extended Session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="8">
+			<id>1132</id>
+			<name>70.12</name>
+			<description>CAN : Security Acces</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="9">
+			<id>1133</id>
+			<name>70.13</name>
+			<description>CAN : Debug session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="10">
+			<id>157</id>
+			<name>70.02</name>
+			<description>TESTER : Turn LED white ON</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="11">
+			<id>161</id>
+			<name>70.23</name>
+			<description>CAMERA : Trigger Picto day</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="12">
+			<id>1328</id>
+			<name>70.50</name>
+			<description>CAN : Write Mms Traca</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="13">
+			<id>1330</id>
+			<name>70.54</name>
+			<description>CAN : Write Authentification Zone</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="14">
+			<id>1332</id>
+			<name>70.56</name>
+			<description>CAN : Write Ecu Manu Date</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="15">
+			<id>1334</id>
+			<name>70.58</name>
+			<description>CAN : Write Ecu Serial Number</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="16">
+			<id>188</id>
+			<name>70.24</name>
+			<description>CAMERA : Trigger control GAP</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="17">
+			<id>1394</id>
+			<name>70.62</name>
+			<description>CAN : write PWM color LED</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="18">
+			<id>1396</id>
+			<name>70.64</name>
+			<description>CAN : write PWM white LED</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="19">
+			<id>1398</id>
+			<name>70.66</name>
+			<description>CAN : write rank led white</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>White led rank</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2358</id>
+					<name>Limit01</name>
+					<value1>1</value1>
+					<value2>2</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="20">
+			<id>1399</id>
+			<name>70.67</name>
+			<description>CAN : write rank led amber</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>Amber led rank</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2359</id>
+					<name>Limit01</name>
+					<value1>1</value1>
+					<value2>3</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="21">
+			<id>1400</id>
+			<name>70.68</name>
+			<description>CAN : write rank led green</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>Green led rank</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2360</id>
+					<name>Limit01</name>
+					<value1>1</value1>
+					<value2>3</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="22">
+			<id>1216</id>
+			<name>70.03</name>
+			<description>TESTER : Turn LED white OFF</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="23">
+			<id>163</id>
+			<name>70.14</name>
+			<description>CAN : Turn day backlight ON</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="24">
+			<id>165</id>
+			<name>70.15</name>
+			<description>CAN : Turn night amber backlight ON</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="25">
+			<id>166</id>
+			<name>70.25</name>
+			<description>CAMERA : Trigger Picto amber Mode night  </description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="26">
+			<id>182</id>
+			<name>70.16</name>
+			<description>CAN : Turn night green backlight ON</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="27">
+			<id>167</id>
+			<name>70.26</name>
+			<description>CAMERA : Trigger Picto green Mode night</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="28">
+			<id>1234</id>
+			<name>70.60</name>
+			<description>CAN ; write max white</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="29">
+			<id>184</id>
+			<name>70.17</name>
+			<description>CAN : Turn white backlight ON</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="30">
+			<id>189</id>
+			<name>70.27</name>
+			<description>CAMERA : Trigger Picto backlight</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="31">
+			<id>190</id>
+			<name>70.33</name>
+			<description>DMM : Current With Backlight</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>CurrentBacklight</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2144</id>
+					<name>Limit01</name>
+					<value1>0.04</value1>
+					<value2>0.15</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="32">
+			<id>1401</id>
+			<name>70.61</name>
+			<description>CAN : write min white</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="33">
+			<id>745</id>
+			<name>70.40</name>
+			<description>TEST : picto P</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>ScoreModeJour</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2195</id>
+					<name>Limit01</name>
+					<value1>65.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>ScoreModeNuit</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1598</id>
+					<name>Limit02</name>
+					<value1>70.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>DecalageX</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1929</id>
+					<name>Limit03</name>
+					<value1>30</value1>
+					<value2>85</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>DecalageY</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1937</id>
+					<name>Limit04</name>
+					<value1>26</value1>
+					<value2>85</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>DecalageAngulaire</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1809</id>
+					<name>Limit05</name>
+					<value1>0.0</value1>
+					<value2>20</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>Presence</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>58</id>
+					<name>Limit06</name>
+					<value1>1.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Orange_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2343</id>
+					<name>Limit07</name>
+					<value1>0.608</value1>
+					<value2>0.688</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>Orange_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2344</id>
+					<name>Limit08</name>
+					<value1>0.314</value1>
+					<value2>0.394</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>Orange_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2058</id>
+					<name>Limit09</name>
+					<value1>540</value1>
+					<value2>1400</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>Vert_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>595</id>
+					<name>Limit10</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Vert_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>596</id>
+					<name>Limit11</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>Vert_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>597</id>
+					<name>Limit12</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>White_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2370</id>
+					<name>Limit13</name>
+					<value1>0.265</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>White_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2197</id>
+					<name>Limit14</name>
+					<value1>0.25</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>White_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2198</id>
+					<name>Limit15</name>
+					<value1>3</value1>
+					<value2>29</value2>
+				</limit>
+			</measure>
+			<measure step="16">
+				<config>Polygone amber</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2277</id>
+					<name>Limit16</name>
+					<value1>0.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="17">
+				<config>Polygone white</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2279</id>
+					<name>Limit17</name>
+					<value1>0.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="34">
+			<id>313</id>
+			<name>70.41</name>
+			<description>TEST : picto R</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>ScoreModeJour</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2199</id>
+					<name>Limit01</name>
+					<value1>65.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>ScoreModeNuit</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>201</id>
+					<name>Limit02</name>
+					<value1>75.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>DecalageX</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1931</id>
+					<name>Limit03</name>
+					<value1>28</value1>
+					<value2>85</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>DecalageY</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1932</id>
+					<name>Limit04</name>
+					<value1>26</value1>
+					<value2>85</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>DecalageAngulaire</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1812</id>
+					<name>Limit05</name>
+					<value1>0.0</value1>
+					<value2>20</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>Presence</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>75</id>
+					<name>Limit06</name>
+					<value1>1.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Orange_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2345</id>
+					<name>Limit07</name>
+					<value1>0.608</value1>
+					<value2>0.688</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>Orange_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2346</id>
+					<name>Limit08</name>
+					<value1>0.314</value1>
+					<value2>0.394</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>Orange_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2064</id>
+					<name>Limit09</name>
+					<value1>540</value1>
+					<value2>1400</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>Vert_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>601</id>
+					<name>Limit10</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Vert_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>602</id>
+					<name>Limit11</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>Vert_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>603</id>
+					<name>Limit12</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>White_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2371</id>
+					<name>Limit13</name>
+					<value1>0.265</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>White_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2201</id>
+					<name>Limit14</name>
+					<value1>0.257</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>White_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2122</id>
+					<name>Limit15</name>
+					<value1>3</value1>
+					<value2>29</value2>
+				</limit>
+			</measure>
+			<measure step="16">
+				<config>Polygone amber</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2265</id>
+					<name>Limit16</name>
+					<value1>0</value1>
+					<value2>1</value2>
+				</limit>
+			</measure>
+			<measure step="17">
+				<config>Polygone white</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2266</id>
+					<name>Limit17</name>
+					<value1>0</value1>
+					<value2>1</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="35">
+			<id>306</id>
+			<name>70.42</name>
+			<description>TEST : picto N</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>ScoreModeJour</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2202</id>
+					<name>Limit01</name>
+					<value1>65.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>ScoreModeNuit</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>203</id>
+					<name>Limit02</name>
+					<value1>75.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>DecalageX</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1933</id>
+					<name>Limit03</name>
+					<value1>32</value1>
+					<value2>85</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>DecalageY</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1934</id>
+					<name>Limit04</name>
+					<value1>26</value1>
+					<value2>85</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>DecalageAngulaire</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1815</id>
+					<name>Limit05</name>
+					<value1>0.0</value1>
+					<value2>20</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>Presence</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>92</id>
+					<name>Limit06</name>
+					<value1>1.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Orange_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>296</id>
+					<name>Limit07</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>Orange_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>297</id>
+					<name>Limit08</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>Orange_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>298</id>
+					<name>Limit09</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>Vert_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2347</id>
+					<name>Limit10</name>
+					<value1>0.111</value1>
+					<value2>0.232</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Vert_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2348</id>
+					<name>Limit11</name>
+					<value1>0.681</value1>
+					<value2>0.801</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>Vert_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2071</id>
+					<name>Limit12</name>
+					<value1>420</value1>
+					<value2>1400</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>White_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2372</id>
+					<name>Limit13</name>
+					<value1>0.265</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>White_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2204</id>
+					<name>Limit14</name>
+					<value1>0.25</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>White_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2125</id>
+					<name>Limit15</name>
+					<value1>3</value1>
+					<value2>29</value2>
+				</limit>
+			</measure>
+			<measure step="16">
+				<config>Polygone green</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2267</id>
+					<name>Limit16</name>
+					<value1>0</value1>
+					<value2>1</value2>
+				</limit>
+			</measure>
+			<measure step="17">
+				<config>Polygone white</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2268</id>
+					<name>Limit17</name>
+					<value1>0</value1>
+					<value2>1</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="36">
+			<id>314</id>
+			<name>70.43</name>
+			<description>TEST : picto D</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>ScoreModeJour</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2205</id>
+					<name>Limit01</name>
+					<value1>65.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>ScoreModeNuit</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>205</id>
+					<name>Limit02</name>
+					<value1>70.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>DecalageX</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1935</id>
+					<name>Limit03</name>
+					<value1>32</value1>
+					<value2>85</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>DecalageY</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1936</id>
+					<name>Limit04</name>
+					<value1>26</value1>
+					<value2>85</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>DecalageAngulaire</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1818</id>
+					<name>Limit05</name>
+					<value1>0.0</value1>
+					<value2>20</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>Presence</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>113</id>
+					<name>Limit06</name>
+					<value1>1.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Orange_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>604</id>
+					<name>Limit07</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>Orange_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>605</id>
+					<name>Limit08</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>Orange_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>606</id>
+					<name>Limit09</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>Vert_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2349</id>
+					<name>Limit10</name>
+					<value1>0.111</value1>
+					<value2>0.231</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Vert_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2350</id>
+					<name>Limit11</name>
+					<value1>0.681</value1>
+					<value2>0.801</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>Vert_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2077</id>
+					<name>Limit12</name>
+					<value1>420</value1>
+					<value2>1400</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>White_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2373</id>
+					<name>Limit13</name>
+					<value1>0.265</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>White_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2207</id>
+					<name>Limit14</name>
+					<value1>0.240</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>White_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2130</id>
+					<name>Limit15</name>
+					<value1>3</value1>
+					<value2>29</value2>
+				</limit>
+			</measure>
+			<measure step="16">
+				<config>Polygone green</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2269</id>
+					<name>Limit16</name>
+					<value1>0</value1>
+					<value2>1</value2>
+				</limit>
+			</measure>
+			<measure step="17">
+				<config>Polygone white</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2270</id>
+					<name>Limit17</name>
+					<value1>0</value1>
+					<value2>1</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="37">
+			<id>315</id>
+			<name>70.44</name>
+			<description>TEST : picto MODE</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>ScoreModeJour</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2208</id>
+					<name>Limit01</name>
+					<value1>65.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>ScoreModeNuit</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>208</id>
+					<name>Limit02</name>
+					<value1>70.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>DecalageX</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1836</id>
+					<name>Limit03</name>
+					<value1>25</value1>
+					<value2>120</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>DecalageY</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1835</id>
+					<name>Limit04</name>
+					<value1>25</value1>
+					<value2>120</value2>
+				</limit>
+			</measure>
+			<measure step="5">
+				<config>DecalageAngulaire</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1821</id>
+					<name>Limit05</name>
+					<value1>0.0</value1>
+					<value2>20</value2>
+				</limit>
+			</measure>
+			<measure step="6">
+				<config>Presence</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>130</id>
+					<name>Limit06</name>
+					<value1>1.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="7">
+				<config>Orange_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>610</id>
+					<name>Limit07</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="8">
+				<config>Orange_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>611</id>
+					<name>Limit08</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="9">
+				<config>Orange_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>612</id>
+					<name>Limit09</name>
+					<value1>0.0</value1>
+					<value2>0.0</value2>
+				</limit>
+			</measure>
+			<measure step="10">
+				<config>Vert_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2351</id>
+					<name>Limit10</name>
+					<value1>0.111</value1>
+					<value2>0.231</value2>
+				</limit>
+			</measure>
+			<measure step="11">
+				<config>Vert_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2352</id>
+					<name>Limit11</name>
+					<value1>0.681</value1>
+					<value2>0.801</value2>
+				</limit>
+			</measure>
+			<measure step="12">
+				<config>Vert_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2083</id>
+					<name>Limit12</name>
+					<value1>420</value1>
+					<value2>1400</value2>
+				</limit>
+			</measure>
+			<measure step="13">
+				<config>White_x</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2374</id>
+					<name>Limit13</name>
+					<value1>0.265</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="14">
+				<config>White_y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2210</id>
+					<name>Limit14</name>
+					<value1>0.25</value1>
+					<value2>0.35</value2>
+				</limit>
+			</measure>
+			<measure step="15">
+				<config>White_Y</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2134</id>
+					<name>Limit15</name>
+					<value1>3</value1>
+					<value2>29</value2>
+				</limit>
+			</measure>
+			<measure step="16">
+				<config>Polygone green</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2271</id>
+					<name>Limit16</name>
+					<value1>0</value1>
+					<value2>1</value2>
+				</limit>
+			</measure>
+			<measure step="17">
+				<config>Polygone white</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2272</id>
+					<name>Limit17</name>
+					<value1>0</value1>
+					<value2>1</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="38">
+			<id>959</id>
+			<name>70.46</name>
+			<description>TEST : GAP pushs</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>Gap1</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1776</id>
+					<name>Limit01</name>
+					<value1>8.0</value1>
+					<value2>25</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>Gap2</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1777</id>
+					<name>Limit02</name>
+					<value1>8.0</value1>
+					<value2>25</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>Gap3</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1778</id>
+					<name>Limit03</name>
+					<value1>8.0</value1>
+					<value2>25</value2>
+				</limit>
+			</measure>
+			<measure step="4">
+				<config>Gap4</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>1779</id>
+					<name>Limit04</name>
+					<value1>8.0</value1>
+					<value2>25</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="39">
+			<id>143</id>
+			<name>70.45</name>
+			<description>TEST : illumination homogeneity</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>HomogeneiteOrange</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2336</id>
+					<name>Limit01</name>
+					<value1>60.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>HomogeneiteVert</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2337</id>
+					<name>Limit02</name>
+					<value1>60.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+			<measure step="3">
+				<config>HomogeneiteWhite</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2338</id>
+					<name>Limit03</name>
+					<value1>60.0</value1>
+					<value2>100.0</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="40">
+			<id>1524</id>
+			<name>70.47</name>
+			<description>TEST : customer interface</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+			<measure step="1">
+				<config>Bumper_Gauche</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2142</id>
+					<name>Limit01</name>
+					<value1>1.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+			<measure step="2">
+				<config>Bumper_Droite</config>
+				<value type=""></value>
+				<failed>0</failed>
+				<duration></duration>
+				<unit></unit>
+				<used>0</used>
+				<limit>
+					<id>2143</id>
+					<name>Limit02</name>
+					<value1>1.0</value1>
+					<value2>1.0</value2>
+				</limit>
+			</measure>
+		</test>
+		<test step="41">
+			<id>1572</id>
+			<name>70.72</name>
+			<description>CAN: reset soft</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="42">
+			<id>1391</id>
+			<name>70.10</name>
+			<description>CAN : run normal mode</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="43">
+			<id>1387</id>
+			<name>70.11</name>
+			<description>CAN : Enter Extended Session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="44">
+			<id>1388</id>
+			<name>70.12</name>
+			<description>CAN : Security Acces</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="45">
+			<id>1389</id>
+			<name>70.13</name>
+			<description>CAN : Debug session</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="46">
+			<id>1106</id>
+			<name>70.17</name>
+			<description>TEST WHITE ON</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="47">
+			<id>1566</id>
+			<name>70.51</name>
+			<description>CAN : Read Mms Traca</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="48">
+			<id>1567</id>
+			<name>70.55</name>
+			<description>CAN : Read Authentification Zone</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="49">
+			<id>1568</id>
+			<name>70.57</name>
+			<description>CAN : Read Ecu Manu Date</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="50">
+			<id>1569</id>
+			<name>70.59</name>
+			<description>CAN : Read Ecu Serial Number</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="51">
+			<id>1570</id>
+			<name>70.63</name>
+			<description>CAN : read PWM color LED</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="52">
+			<id>1571</id>
+			<name>70.65</name>
+			<description>CAN : read PWM white LED</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="53">
+			<id>128</id>
+			<name>70.01</name>
+			<description>TESTER : Unplug Panel</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<cleanup>
+			<failed>0</failed>
+			<duration></duration>
+		</cleanup>
+	</process>
+	<process stage="7">
+		<name>WS80</name>
+		<description>pick and place piece NOK</description>
+		<init>
+			<failed>0</failed>
+			<duration></duration>
+		</init>
+		<cleanup>
+			<failed>0</failed>
+			<duration></duration>
+		</cleanup>
+	</process>
+	<process stage="8">
+		<name>WS10</name>
+		<description></description>
+		<init>
+			<failed>0</failed>
+			<duration></duration>
+		</init>
+		<test step="1">
+			<id>286</id>
+			<name>10.00</name>
+			<description>PRINTER : Initialisation</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="2">
+			<id>287</id>
+			<name>10.10</name>
+			<description>PRINTER : Envoi Etiquette Imprimante</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<test step="3">
+			<id>288</id>
+			<name>10.20</name>
+			<description>TESTER : Verification code a barre</description>
+			<failed>0</failed>
+			<duration></duration>
+			<used>0</used>
+		</test>
+		<cleanup>
+			<failed>0</failed>
+			<duration></duration>
+		</cleanup>
+	</process>
+	<version>
+		<item type="plugin">
+			<name>Automat</name>
+			<version>0.0.2</version>
+			<datetime>Jul 11 2024 00:12:37</datetime>
+			<uuid>{E73BFBD5-77AF-40c8-9ED6-25C1F6EFA259}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Maintenance</name>
+			<version>0.0.2</version>
+			<datetime>Dec 15 2023 07:08:09</datetime>
+			<uuid>{4FDAB846-56F7-405d-BF13-EEB8EF8D96FA}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Login dialog</name>
+			<version>0.0.2</version>
+			<datetime>Dec 15 2023 19:01:07</datetime>
+			<uuid>{AE2FAC8A-ABAC-4b1c-AA84-669809AB76EB}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Panel</name>
+			<version>0.0.1</version>
+			<datetime>Dec 15 2023 19:03:03</datetime>
+			<uuid>{32A783CF-D82C-4734-9112-2F61E92FC17B}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Report</name>
+			<version>1.10.1</version>
+			<datetime>Apr 20 2024 18:56:16</datetime>
+			<uuid>{3399A11A-2A03-4170-B69C-356F4F49C568}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Product</name>
+			<version>1.0.1</version>
+			<datetime>Dec 26 2023 19:38:04</datetime>
+			<uuid>{5954031C-CEA1-4c16-8128-38B661811261}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Messaging panel</name>
+			<version>1.10.1</version>
+			<datetime>Apr 18 2024 17:58:30</datetime>
+			<uuid>{15CCD00D-3983-41b3-BC6A-A10F684A1F61}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Info</name>
+			<version>1.0.1</version>
+			<datetime>Dec  4 2023 12:56:21</datetime>
+			<uuid>{71F5C8CB-0C94-429e-8A6C-98AF5E58B248}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Expertise</name>
+			<version>1.10.1</version>
+			<datetime>Jan 21 2024 14:27:17</datetime>
+			<uuid>{0B89335B-D063-4678-AD25-3BB3123D2C2F}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Kosu</name>
+			<version>1.0.1</version>
+			<datetime>Dec 18 2023 04:02:24</datetime>
+			<uuid>{B9DD83C0-F8CE-44a0-A0AF-9AD7F170871D}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Report</name>
+			<version>1.10.1</version>
+			<datetime>Apr 19 2024 18:06:15</datetime>
+			<uuid>{3399A11A-2A03-4170-B69C-356F4F49C569}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Database</name>
+			<version>0.0.2</version>
+			<datetime>Jan  2 2024 11:05:11</datetime>
+			<uuid>{0CBEF382-AEDE-40a3-92EF-2B24D432A4CD}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Cards</name>
+			<version>1.0.1</version>
+			<datetime>Dec 15 2023 08:02:59</datetime>
+			<uuid>{28E36F9B-656B-4acd-97EF-9010E3898EC1}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Axis</name>
+			<version>1.0.1</version>
+			<datetime>Dec 19 2023 22:00:43</datetime>
+			<uuid>{bc86c222-d5d2-4276-894c-c0a0e8d34FAC}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Test Sequence</name>
+			<version>1.20.2</version>
+			<datetime>Jul 12 2024 09:02:22</datetime>
+			<uuid>{E67FFDE5-021C-4335-886C-FCA567BEF545}</uuid>
+		</item>
+		<item type="plugin">
+			<name>Sensors</name>
+			<version>1.0.1</version>
+			<datetime>Mar  5 2024 18:57:52</datetime>
+			<uuid>{374B887B-7EF6-4593-B83E-0E07DDB38C99}</uuid>
+		</item>
+		<item type="module">
+			<name>axis Module</name>
+			<version>1.0</version>
+			<datetime>Dec 19 2023 23:03:37</datetime>
+			<uuid>{28040E54-784A-4f00-8CDF-A986AB747300}</uuid>
+		</item>
+		<item type="module">
+			<name>Sensor Module</name>
+			<version>1.0</version>
+			<datetime>Mar  5 2024 19:01:13</datetime>
+			<uuid>{A65AEFCA-1600-4be0-AD11-7CA998CE5584}</uuid>
+		</item>
+		<item type="module">
+			<name>Printers Module</name>
+			<version>1.0</version>
+			<datetime>Jan 11 2024 17:27:42</datetime>
+			<uuid>{28040E54-784A-4f00-8CDF-A986AB747298}</uuid>
+		</item>
+		<item type="module">
+			<name>Log Module</name>
+			<version>1.0</version>
+			<datetime>Jan 30 2009 12:06:11</datetime>
+			<uuid>{DA88E676-2589-4fa2-A31B-2875D6F2CB8D}</uuid>
+		</item>
+		<item type="module">
+			<name>User login module</name>
+			<version>1.0</version>
+			<datetime>Jan 30 2009 12:07:17</datetime>
+			<uuid>{BFEA696D-4372-4c08-AFFA-A269369BA40E}</uuid>
+		</item>
+		<item type="module">
+			<name>Database module</name>
+			<version>2.1</version>
+			<datetime>Jun 27 2024 17:03:18</datetime>
+			<uuid>{913C9769-8D32-496f-9900-546814DDC355}</uuid>
+		</item>
+		<item type="module">
+			<name>Tester Module</name>
+			<version>1.0</version>
+			<datetime>Jun 11 2024 13:05:42</datetime>
+			<uuid>{F459741B-B526-4fb9-B65C-A4C983105321}</uuid>
+		</item>
+		<item type="module">
+			<name>Labels Module</name>
+			<version>1.3</version>
+			<datetime>Mar 18 2024 03:18:08</datetime>
+			<uuid>{626BFA10-D068-45ff-B497-E8F27B940EE9}</uuid>
+		</item>
+	</version></testseq>

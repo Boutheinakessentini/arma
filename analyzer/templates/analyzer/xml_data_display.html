@@ -1,0 +1,12 @@
+{% for tag, value in xml_data.items %}
+    <div class="xml-node">
+        <strong>{{ tag }}:</strong>
+        {% if value is string %}
+            {{ value }}
+        {% else %}
+            <div class="xml-node">
+                {% include 'analyzer/xml_data_display.html' with xml_data=value %}
+            </div>
+        {% endif %}
+    </div>
+{% endfor %}
